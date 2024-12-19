@@ -9,14 +9,14 @@ session_start();
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta charset="utf-8">
 		<META NAME="robots" CONTENT="noindex,nofollow">
-        <link rel="apple-touch-icon" sizes="180x180" href="https://madu.gg/apple-touch-icon.png?v=5">
-        <link rel="icon" type="image/png" sizes="32x32" href="https://madu.gg/favicon-32x32.png?v=5">
-        <link rel="icon" type="image/png" sizes="16x16" href="https://madu.gg/favicon-16x16.png?v=5">
-        <link rel="manifest" href="https://madu.gg/site.webmanifest?v=5">
-        <link rel="mask-icon" href="https://madu.gg/safari-pinned-tab.svg?v=5" color="#5bbad5">
-        <link rel="shortcut icon" href="https://madu.gg/favicon.ico?v=5">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://ggads.live/apple-touch-icon.png?v=5">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://ggads.live/favicon-32x32.png?v=5">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://ggads.live/favicon-16x16.png?v=5">
+        <link rel="manifest" href="https://ggads.live/site.webmanifest?v=5">
+        <link rel="mask-icon" href="https://ggads.live/safari-pinned-tab.svg?v=5" color="#5bbad5">
+        <link rel="shortcut icon" href="https://ggads.live/favicon.ico?v=5">
         <meta name="msapplication-TileColor" content="#da532c">
-        <meta name="msapplication-config" content="https://madu.gg/browserconfig.xml?v=5">
+        <meta name="msapplication-config" content="https://ggads.live/browserconfig.xml?v=5">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -48,7 +48,7 @@ session_start();
                         </button>
                     </form>
 						<div>
-						<button class="btn btn-lg btn-primary btn-block" onclick="window.location.href='https://madu.gg'">GO TO HOME</button>
+						<button class="btn btn-lg btn-primary btn-block" onclick="window.location.href='https://ggads.live'">GO TO HOME</button>
 						<br>
 						<p class="mt-5 mb-3 text-muted">&copy; 2021-2022</p>
 						</div>
