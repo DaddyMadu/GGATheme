@@ -2,12 +2,12 @@
     "version": 1,
     "themes": {
         "sky": {
-            "name": "Sky",
-            "repo": "https://github.com/robiso/sky/tree/master",
-            "zip": "https://github.com/robiso/sky/archive/master.zip",
-            "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
+            "name": "GGATheme",
+            "repo": "https://github.com/DaddyMadu/GGATheme/tree/master",
+            "zip": "https://github.com/DaddyMadu/GGATheme/archive/master.zip",
+            "summary": "Custom Theme based on the Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
             "version": "3.2.4",
-            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/DaddyMadu/HHATheme/master/preview.jpg"
         }
     }
 }
