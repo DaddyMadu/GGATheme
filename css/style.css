@@ -1,19 +1,19 @@
 @font-face {
-	font-family: 'Catamaran';
+	font-family: 'Tajawal';
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
 	src: url('fonts/tajawal-v9-latin-regular.woff2') format('woff2')
 }
 @font-face {
-	font-family: 'Catamaran';
+	font-family: 'Tajawal';
 	font-style: normal;
 	font-weight: 700;
 	font-display: swap;
 	src: url('fonts/tajawal-v9-latin-700.woff2') format('woff2')
 }
 @font-face {
-	font-family: 'Catamaran';
+	font-family: 'Tajawal';
 	font-style: normal;
 	font-weight: 900;
 	font-display: swap;
@@ -43,7 +43,7 @@ html, body {
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
 	background-image: -webkit-linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
 	min-height: 100%;
-	font-family: 'Catamaran';
+	font-family: 'Tajawal';
 	color: #fff !important
 }
 .actions li {
