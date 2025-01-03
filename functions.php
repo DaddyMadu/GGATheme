@@ -22,7 +22,7 @@ function addLogo($args) {
     <div class="header-bar">
         <div class="logo-container">
             <a href="/" class="logo-link">
-                <img src="{$Wcms->url('themes/your-theme-name/logo.png')}" alt="Logo" class="site-logo">
+                <img src="{$Wcms->url('images/logo.png')}" alt="Logo" class="site-logo">
             </a>
         </div>
         <div class="social-container">
