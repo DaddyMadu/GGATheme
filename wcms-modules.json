@@ -6,7 +6,7 @@
             "repo": "https://github.com/DaddyMadu/GGATheme/tree/master",
             "zip": "https://github.com/DaddyMadu/GGATheme/archive/master.zip",
             "summary": "Custom Theme based on the Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
-            "version": "3.2.4",
+            "version": "3.2.5",
             "image": "https://raw.githubusercontent.com/DaddyMadu/GGATheme/master/preview.jpg"
         }
     }
