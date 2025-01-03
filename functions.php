@@ -5,8 +5,6 @@
 <link rel="manifest" href="https://ggads.live/site.webmanifest?v=14">
 <link rel="shortcut icon" href="https://ggads.live/favicon.ico?v=14">
 <meta property="og:image" content="https://ggads.live/images/og-image.png" />
-<meta property="twitter:title" content="Elevate Your Streams and content with GGAds.live - Real-Time In-Stream Ad Solutions" />
-<meta property="twitter:description" content="At GGAds.live, we connect streamers and content creators with sponsors to deliver innovative, real-time in-stream ads that enhance live streams. Our platform provides streamers with effortless monetization opportunities while enabling brands to reach engaged gaming and streaming audiences through non-intrusive, impactful advertising." />
 
 <?php
 
