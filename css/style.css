@@ -41,14 +41,14 @@ section, summary, time, mark, audio, video {
 
 html, body {
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
-	background-color: #000000 !important;
+	background-color: #000000;
 	background-image:
 		radial-gradient(circle at top right, #01d48d 0%, #000000 40%),
 		radial-gradient(circle at bottom left, #01d48d 0%, #000000 40%);
-	background-blend-mode: screen !important;
+	background-blend-mode: screen;
 	min-height: 100%;
 	font-family: 'Tajawal';
-	color: #eff3f6 !important;
+	color: #eff3f6;
 }
 .actions li {
 	list-style: none
@@ -219,11 +219,11 @@ input::-moz-focus-inner {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #01d48d;
+		background-color: #ffffff;
 		border: solid 1px !important;
 		border-color: #19b17e !important;
 		border-radius: 3em;
-		color: #eff3f6 !important;
+		color: #258464 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.7em;
